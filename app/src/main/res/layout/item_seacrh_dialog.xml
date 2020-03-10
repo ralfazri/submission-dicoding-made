@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="10dp"
+    android:gravity="center"
+    android:weightSum="2">
+
+    <ImageView
+        android:id="@+id/iv_film_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:padding="20dp"
+        app:srcCompat="@drawable/ic_movie_filter_black_24dp"/>
+
+
+
+    <ImageView
+        android:id="@+id/iv_film_tv_search"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="20dp"
+        android:layout_weight="1"
+        app:srcCompat="@drawable/ic_live_tv_black_24dp"/>
+
+</LinearLayout>

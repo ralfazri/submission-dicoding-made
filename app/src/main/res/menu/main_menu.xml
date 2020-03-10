@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_change_settings"
+        android:title="@string/settings"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/ic_search"
+        android:title="@string/search"
+        android:icon="@drawable/ic_search_24dp"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/btnLikeMain"
+        android:title="@string/favorito"
+        android:icon="@drawable/ic_favorite"
+        app:showAsAction="ifRoom"/>
+
+</menu>

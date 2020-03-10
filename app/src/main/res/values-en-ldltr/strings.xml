@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission made 2 fazri</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="film_tv">TV Channel</string>
+    <string name="label1">TV BROADCAST DETAIL</string>
+    <string name="label2">FILM DETAIL</string>
+    <string name="film">Film</string>
+    <string name="_40">40</string>
+    <string name="laguange">Change Language</string>
+    <string name="date">Date</string>
+    <string name="language">Language</string>
+    <string name="rate">Rate</string>
+    <string name="popular">Popular</string>
+    <string name="title">Title</string>
+    <string name="detail">Detail</string>
+    <string name="favorito">Favorite</string>
+    <string name="like_film">Like Film</string>
+    <string name="like_tv">Like TV</string>
+    <string name="favorite">favorite</string>
+    <string name="detail_film">Detail Film</string>
+    <string name="detail_filmtv">Detail Film TV</string>
+    <string name="success">Data uploaded</string>
+    <string name="remove">Data removed</string>
+    <string name="loading">Loading</string>
+    <string name="search">Search</string>
+    <string name="search_find">Find Here to film</string>
+    <string name="change_apk_language_setting">Change your Aplication Language</string>
+    <string name="daily_notification_setting">Daily Notification</string>
+    <string name="desc_daily_notification">Apps will remind you every day</string>
+    <string name="desc_release_Setting">Apps will show to every release movie</string>
+    <string name="release_notification_setting">Release Notification</string>
+    <string name="show_daily">Apps remind you daily</string>
+    <string name="desc_show_daily">Check your apps today!</string>
+    <string name="daily_notif_on">Daily Notification on</string>
+    <string name="daily_notif_off">Daily Notification off</string>
+    <string name="release_notif_on">Daily Notification on</string>
+    <string name="release_notif_off">Daily Notification off</string>
+    <string name="settings">SETTINGS</string>
+    <string name="release_movie">Release Notification</string>
+    <string name="select_string">Find you want</string>
+    <string name="search_find_film">Find Here to film</string>
+    <string name="search_find_film_tv">Find Here to filmTv</string>
+    <string name="empty_data">Empty Data</string>
+    <string name="favorite_film_widget">Favorite Film</string>
+    <string name="release_caption">Release Today: </string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+
+</resources>
